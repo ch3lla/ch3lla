@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ch3lla
-- 👀 I’m interested in backend development 
+- 👀 I’m interested in backend development, software engineering and application development 
 - 🌱 I’m currently learning Java, spring and MySQL 
 - 💞️ I’m looking to collaborate on website development and apllication development
+- 👩‍💻 I program in python, C++, C
 - 📫 How to reach me LinkedIn - linkedin.com/in/emmanuella-chukwuma-8958ab248 and also via email emmanu33llaa@gmail.com
 
 <!---
