@@ -1,5 +1,5 @@
 <h1><b>👋 Hi there, I'm Chella!</b></h1>
-I am a software engineer with a passion for backend development and mobile app development. I am currently learning Spring Boot, MongoDB and Node.js. My programming skills include Java, JavaScript, C/C++.
+I am a software engineer with a passion for backend development. I am currently learning Spring Boot, MongoDB and Node.js. My programming skills include Java, JavaScript, C/C++.
 
 <h1><b>🔭 What I'm currently working on:</b></h1>
 I am currently working on building my skills in Spring Boot, MongoDB and Node.js. I am also working on personal projects to improve my skills.
