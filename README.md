@@ -1,10 +1,11 @@
 <h1><b>👋 Hi there, I'm Chella!</b></h1>
-I am a software engineer with a passion for backend development. I am currently learning Spring Boot, MongoDB and Node.js. My programming skills include Java, JavaScript, C/C++.
+I am a software engineer with a passion for backend development.
 
 <h1><b>💞️Intrests:</b></h1>
 I'm currently exploring backend/full-stack projects and mobile app development opportunities
 
 <h1><b>👩‍💻 Tech Stack:</b></h1>
+
 - **Programming languages**: 
   - Node.JS
   - Java
@@ -29,7 +30,7 @@ I'm currently exploring backend/full-stack projects and mobile app development o
 - Postman
 
 <h1><b>📫 How to reach me:</b></h1>
-You can reach me via email at chukwumaemmanuella03@gmail.com. I'm always open to new opportunities and connections!
+chukwumaemmanuella03@gmail.com. 
 
 <!---
 ch3lla/ch3lla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
