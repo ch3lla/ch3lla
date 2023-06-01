@@ -7,11 +7,32 @@ I am currently working on building my skills in Spring Boot, MongoDB and Node.js
 <h1><b>🌱 What I'm currently learning:</b></h1>
 I am currently learning about the latest technologies and tools used in backend development, software engineering and application development.
 
-<h1><b>💞️ What I'm looking to do:</b></h1>
-I am looking for opportunities to work on backend projects and mobile app development. I am always open to new and exciting opportunities to work on innovative projects.
+<h1><b>💞️Intrests:</b></h1>
+I'm currently exploring backend/full-stack projects and mobile app development opportunities
 
-<h1><b>👩‍💻 What I program in:</b></h1>
-My programming skills include Java, JavaScript, C/C++.
+<h1><b>👩‍💻 Tech Stack:</b></h1>
+- **Programming languages**: 
+  - Node.JS
+  - Java
+  - Html
+  - css
+  - JavaScript
+
+- **Frameworks**: 
+  - Django
+  - React
+  - Express
+  - Spring
+
+- **Databases**: 
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+
+- **Tools**:
+- Vs code
+- Git
+- Postman
 
 <h1><b>📫 How to reach me:</b></h1>
 You can reach me via email at chukwumaemmanuella03@gmail.com. I'm always open to new opportunities and connections!
