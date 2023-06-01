@@ -5,7 +5,7 @@ I am a software engineer with a passion for backend development. I am currently 
 I'm currently exploring backend/full-stack projects and mobile app development opportunities
 
 <h1><b>👩‍💻 Tech Stack:</b></h1>
-**Programming languages**: 
+- **Programming languages**: 
   - Node.JS
   - Java
   - Html
