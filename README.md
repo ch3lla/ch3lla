@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi there, I am'm Chukwuma Emmanuella</h1>
+<h1 align="center">👋Hi there, I am Chukwuma Emmanuella</h1>
 <h3 align="center">I am a software developer.</h3>
 
 - ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/)
