@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi there, I am Chukwuma Emmanuella</h1>
 <h3 align="center">I am a software developer.</h3>
 
-- ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/)
+- ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/), CafeMs and [Thrive Fund](https://thrivefund.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com](https://www.github.com)
 
