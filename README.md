@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi there, I am Chukwuma Emmanuella</h1>
+<h1 align="center">👋Hi there, I am Chella!</h1>
 <h3 align="center">I am a software developer.</h3>
 
 - ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/), [CafeMs](https://github.com/ch3lla/CafeMS) and [Thrive Fund](https://thrivefund.vercel.app/)
