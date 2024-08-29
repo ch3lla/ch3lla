@@ -1,17 +1,17 @@
 <h1 align="center">👋Hi there, I am Chella!</h1>
-<h3 align="center">I am a software developer.</h3>
+<h3 align="center">Software Engineer</h3>
 
-- ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/), [CafeMs](https://github.com/ch3lla/CafeMS) and [Thrive Fund](https://thrivefund.vercel.app/)
+- ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/) and [Thrive Fund](https://thrivefund.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://www.github.com](https://www.github.com)
+- 👨‍💻 Most of my projects are available [on my repositories](https://github.com/ch3lla?tab=repositories)
 
-- 💬 Ask me about **Java, Javascript on Node and MongoDB**
+- 💬 Ask me about **Java, Javascript and Typescript**
 
 - 📫 How to reach me **chukwumaemmanuella03@gmail.com**
 
 #### 💼 Tech Stack:
-- **Languages:** Java, JavaScript, TypeScript
-- **Frameworks:** Spring Boot, JavaFX, Node.js
+- **Languages:** Java, JavaScript, TypeScript, Solidity
+- **Frameworks:** Spring Boot, Express, JavaFX, Node.js
 - **Databases:** MySQL, MongoDB, Redis
 - **Others:** RESTful APIs, Microservices, Cloud Integration
 
