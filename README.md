@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi there, I am Chella!</h1>
 <h3 align="center">Software Engineer</h3>
 
-- ☁️ I am currently working on [Concert Companion](https://concert-companion.onrender.com/) and [Thrive Fund](https://thrivefund.vercel.app/)
+- ☁️ I am currently working on [Rodney](https://rodney-ashen.vercel.app/) and [Thrive Fund](https://thrivefund.vercel.app/)
 
 - 👨‍💻 Most of my projects are available [on my repositories](https://github.com/ch3lla?tab=repositories)
 
