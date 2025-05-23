@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi there, I'm Chella, a Software Engineer</h1>
+<h1 align="center">👋Hi there! I'm Chella, a Software Engineer</h1>
 
 - ☁️ I am currently working on [Rodney](https://rodney-ashen.vercel.app/)
 
