@@ -1,19 +1,12 @@
-<h1 align="center">👋Hi there, I am Chella!</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">👋Hi there, I'm Chella, a Software Engineer</h1>
 
-- ☁️ I am currently working on [Rodney](https://rodney-ashen.vercel.app/) and [Thrive Fund](https://thrivefund.vercel.app/)
+- ☁️ I am currently working on [Rodney](https://rodney-ashen.vercel.app/)
 
 - 👨‍💻 Most of my projects are available [on my repositories](https://github.com/ch3lla?tab=repositories)
 
-- 💬 Ask me about **Java, Javascript and Typescript**
+- 💬 You can ask me about **Java, Javascript and Typescript**
 
-- 📫 How to reach me **chukwumaemmanuella03@gmail.com**
-
-#### 💼 Tech Stack:
-- **Languages:** Java, JavaScript, TypeScript, Solidity
-- **Frameworks:** Spring Boot, Express, JavaFX, Node.js
-- **Databases:** MySQL, MongoDB, Redis
-- **Others:** RESTful APIs, Microservices, Cloud Integration
+- 📫 Feel free to reach me at **chukwumaemmanuella03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
